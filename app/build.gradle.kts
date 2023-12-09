@@ -4,13 +4,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.jobsheet1dan2"
+    namespace = "com.example.gamejanken"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.jobsheet1dan2"
+        applicationId = "com.example.gamejanken"
         minSdk = 24
-        targetSdk = 34
+        targetSdk = 33
         versionCode = 1
         versionName = "1.0"
 

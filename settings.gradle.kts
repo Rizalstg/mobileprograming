@@ -13,5 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "JobSheet1dan2"
+rootProject.name = "Gamejanken"
 include(":app")
+ 

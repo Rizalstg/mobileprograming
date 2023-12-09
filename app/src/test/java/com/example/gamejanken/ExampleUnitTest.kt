@@ -1,4 +1,4 @@
-package com.example.jobsheet1dan2
+package com.example.gamejanken
 
 import org.junit.Test
 

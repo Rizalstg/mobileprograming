@@ -1,12 +1,3 @@
 <resources>
-    <string name="app_name">Belajar Andorid</string>
-    <string name="nameEditText">Nama Mahasiswa</string>
-    <string name="buttonButton">Button</string>
-    <string name="buttonTextView">Hallo  %1$s</string>
-    <string-array name="names">
-        <item>Wahyudi</item>
-        <item>senja</item>
-        <item>Pratiwi</item>
-    </string-array>
-
+    <string name="app_name">Gamejanken</string>
 </resources>
